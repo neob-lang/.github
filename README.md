@@ -1,6 +1,6 @@
 # :octocat: .github
 
-Default community health/policy files for the @neobasic organization on GitHub.
+Default community health/policy files for the @neob-lang organization on GitHub.
 
 ## How To Include New Translation
 

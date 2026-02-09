@@ -1,32 +1,26 @@
-![NeoBASIC banner](https://raw.githubusercontent.com/neobasic/.github/main/assets/profile-banner_pt.png)
+![Neob banner](https://raw.githubusercontent.com/neob-lang/.github/main/assets/profile-banner_pt.png)
 
-<p align="right">🇬🇧 <a href="https://github.com/neobasic">English</a></p>
+<p align="right">🇬🇧 <a href="https://github.com/neob-lang">English</a></p>
 
-## 🤗&nbsp; Bem-vindo ao Projeto NeoBASIC
+## 🤗&nbsp; Bem-vindo ao Projeto Neob
 
-Olá, meu nome é [Raul Bras](https://github.com/teknolista). Sou um engenheiro de software e criador da 🔰 **Neob** — uma linguagem de programação de propósito geral de última geração que pode ser transpilada para **JavaScript**. NeoBASIC foi projetado para ajudar iniciantes a aprender programação com mais facilidade, além de fornecer as ferramentas necessárias para construir softwares confiáveis, eficientes e de alto desempenho.
+Olá, meu nome é [Raul Bras](https://github.com/teknolista). Sou um engenheiro de software e criador da 🔰 **Neob** — uma linguagem de programação de propósito geral de última geração que pode ser transpilada para **JavaScript**. Neob foi projetado para ajudar iniciantes a aprender programação com mais facilidade, além de fornecer as ferramentas necessárias para construir softwares confiáveis, eficientes e de alto desempenho.
 
-O primeiro "rascunho" da gramática da linguagem já está pronto ([neobasic-grammar](https://github.com/neobasic/neobasic-grammar)), e agora estou iniciando a programação do parser ([pneo](https://github.com/neobasic/pneo)) e para isso estou usando o [Antlr4](https://www.antlr.org/). Em paralelo estou já preparando o site ([www.neobasic.org](https://www.neobasic.org/)), escrevendo a documentação ([pt.neobasic.org](https://pt.neobasic.org/)) ao mesmo tempo que traduzo tudo para o inglês ([en.neobasic.org](https://en.neobasic.org/)). Além disso, planejo lançar uma extensão para o VS Code, mas por enquanto estou ainda criando o syntax-highlighting com a gramática do TextMate ([vscode-neobasic](https://github.com/neobasic/vscode-neobasic)). Não é um trabalho fácil, e a previsão é que seja um empreendimento que consuma anos de desenvolvimento.
+O primeiro "rascunho" da gramática da linguagem já está pronto ([neob-grammar](https://github.com/neob-lang/neob-grammar)), e agora estou iniciando a programação do parser ([pneo](https://github.com/neob-lang/neob)) e para isso estou usando o [Antlr4](https://www.antlr.org/). Em paralelo estou já preparando o site ([www.neob-lang.org](https://www.neob-lang.org/)), escrevendo a documentação ([pt.neob-lang.org](https://pt.neob-lang.org/)) ao mesmo tempo que traduzo tudo para o inglês ([en.neob-lang.org](https://en.neob-lang.org/)). Além disso, planejo lançar uma extensão para o VS Code, mas por enquanto estou ainda criando o syntax-highlighting com a gramática do TextMate ([vscode-neob](https://github.com/neob-lang/vscode-neob)). Não é um trabalho fácil, e a previsão é que seja um empreendimento que consuma anos de desenvolvimento.
 
 ## 🔰&nbsp; Nascida do Desejo, Moldada pela Praticidade
 
 A linguagem Neob nasceu do desejo de ajudar pessoas comuns a aprender a programar.
 
-## ✊&nbsp; O Poder De C++ Para O Povo
+## 🌐&nbsp; A Onipresença do JavaScript
 
-O código Neob é transpilado para C++, uma linguagem poderosa que combina alto desempenho, controle de baixo nível de hardware, e recursos modernos de programação orientada a objetos, genérica e funcional, permitindo a construção de sistemas complexos, eficientes e reutilizáveis. Sua capacidade de manipular diretamente a memória, aliada a uma rica biblioteca padrão e suporte a abstrações de alto nível, faz com que seja ideal tanto para aplicações de tempo real (como jogos, sistemas operacionais e motores gráficos) quanto para softwares de alta performance e sistemas embarcados.
+O código Neob é transpilado para **JavaScript**, a linguagem mais onipresente da computação moderna. Presente em navegadores, servidores, dispositivos móveis, desktop apps e até em sistemas embarcados, JavaScript oferece um alcance incomparável: **escreva uma vez, execute em qualquer lugar**. Seu ecossistema massivo, com milhões de bibliotecas, ferramentas e runtimes maduros, permite que aplicações completas — do frontend ao backend — sejam construídas, distribuídas e executadas com extrema facilidade.
 
-> C facilita dar um tiro no próprio pé;
->
-> C++ torna mais difícil, mas quando você consegue, explode a perna inteira.
->
-> — <cite>*Ditado popular entre programadores*</cite>
+JavaScript combina um modelo de execução de alto nível, coleta automática de lixo, tipagem dinâmica (ou estática opcional via TypeScript) e um runtime seguro, eliminando classes inteiras de erros comuns em linguagens de baixo nível. Ao mesmo tempo, motores modernos como **V8, SpiderMonkey e JavaScriptCore** aplicam otimizações agressivas, JIT compilation e técnicas avançadas de runtime que tornam o desempenho mais do que suficiente para a maioria das aplicações reais, inclusive em larga escala.
 
-Ao ser transpilada para C++, Neob mantém a performance e o ecossistema da linguagem, mas adiciona mecanismos de segurança que impedem erros comuns de gerenciamento de memória, como vazamentos, ponteiros pendentes ou acesso fora de limites. Esses recursos não apenas reduzem drasticamente o risco de falhas críticas, como também permitem que o desenvolvedor se concentre na lógica da aplicação, aproveitando as vantagens da linguagem C++ sem sofrer com suas armadilhas mais perigosas. Além disso, Neob oferece abstrações modernas e verificações em tempo de compilação que tornam o código mais seguro, legível e confiável.
+Ao ser transpilada para JavaScript, a Neob herda **portabilidade imediata, segurança por padrão e um ecossistema gigantesco**, ao mesmo tempo em que corrige as fragilidades históricas da linguagem, como inconsistências semânticas, armadilhas de coerção de tipos e APIs mal projetadas. A Neob atua como uma **camada de engenharia de software disciplinada**, impondo regras claras, verificações em tempo de compilação e abstrações consistentes que tornam o código previsível, legível e fácil de manter.
 
-> Neob é o mecanismo de segurança que previne o uso acidental e letal de C++.
->
-> — <cite>*Equipe NeoBASIC*</cite>
+Essa abordagem permite que iniciantes aprendam programação e engenharia de software sem lidar com comportamentos implícitos perigosos, enquanto desenvolvedores experientes ganham produtividade sem abrir mão de robustez. O resultado é uma linguagem moderna, pedagógica e segura, que entrega aplicações reais sobre uma das plataformas mais consolidadas do planeta.
 
 ## 💖&nbsp; Código Aberto, Livre Contribuição, Mente Aberta, De Coração Aberto
 
@@ -44,9 +38,9 @@ O mascote da linguagem Neob é a [quimera](https://pt.wikipedia.org/wiki/Quimera
 
 O nome ZECA é uma sigla para "Zero Esforço e Custo em Abstrações". Neob é uma linguagem baseada nos conceitos de *zero-cost abstraction*,  e *zero cognitive effort*, em que os recursos e abstrações fornecidos são fáceis de assimilar e não impõem nenhuma sobrecarga de desempenho em tempo de execução. As abstrações fornecidas por Neob são construções em tempo de compilação e não adicionam nenhum custo extra ao código C++ final, tornando-o tão rápido quanto se você tivesse escrito o código em JavaScript sem as abstrações.
 
-<p align="center"><img src="https://raw.githubusercontent.com/neobasic/.github/main/assets/chimera_icons.png" alt="Ícones de quimera adotos no projeto."></p>
+<p align="center"><img src="https://raw.githubusercontent.com/neob-lang/.github/main/assets/chimera_icons.png" alt="Ícones de quimera adotos no projeto."></p>
 
-Os [ícones de quimera](https://www.flaticon.com/free-icon/chimera_477118) usados ​​no projeto NeoBASIC foram projetados por [Freepik](https://www.flaticon.com/authors/freepik) e obtidos de [Flaticon](https://www.flaticon.com/).
+Os [ícones de quimera](https://www.flaticon.com/free-icon/chimera_477118) usados ​​no projeto Neob foram projetados por [Freepik](https://www.flaticon.com/authors/freepik) e obtidos de [Flaticon](https://www.flaticon.com/).
 
 
 <br />
