@@ -1,4 +1,4 @@
-# :octocat: .github
+# ⚙️ .github
 
 Default community health/policy files for the @neob-lang organization on GitHub.
 
